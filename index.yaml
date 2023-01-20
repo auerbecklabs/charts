@@ -3,12 +3,12 @@ entries:
   main-project:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-01-20T05:26:50.348540401Z"
+    created: "2023-01-20T06:18:06.820389863Z"
     description: A Helm chart for Kubernetes
-    digest: e56926a2b85f64b3555c17495bf450112d9afd27fa50692462c43a1f32619bd8
+    digest: b0b48367f6c2d34a91249e734565ff37b5774bc6c7eaf47b3ca3d3e849b46a48
     name: main-project
     type: application
     urls:
     - https://auerbecklabs.github.io/charts/main-project-0.1.0.tgz
     version: 0.1.0
-generated: "2023-01-20T05:26:50.347441883Z"
+generated: "2023-01-20T06:18:06.819627216Z"
